@@ -18,6 +18,9 @@ public class Team implements Comparable {
 		name
 	}
 
+	String[] foe = data[0];
+	String[] team = date[0];
+
 	public Team getWinner() {
 		double teamExp = team.Expected;
 		double foeExp = foe.Expected;
