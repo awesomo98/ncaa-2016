@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*
+import java.util.*;
 
 public class ClassData {
 	String fileName;
@@ -17,6 +17,11 @@ public class ClassData {
 			
 
 		}
+	}
+
+	public static ArrayList<Team> generateGames() {
+		for data[3] == 1 && data[3] == 16
+			getWinner();
 	}
 	
 }

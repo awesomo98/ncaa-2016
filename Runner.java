@@ -25,5 +25,7 @@ public class Runner {
 		ArrayList<Teams> eliteEight = new ArrayList<Teams>;
 		ArrayList<Teams> finalFour = new ArrayList<Teams>;
 		ArrayList<Teams> nationalChampionship = new ArrayList<Teams>;
+
+
 	}
 }
